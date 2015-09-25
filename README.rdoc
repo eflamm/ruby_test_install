@@ -9,6 +9,7 @@ Testing GIT credentials in Visual Studio Code
 2) Save it. Then Git icon lights up to show that saved changes need to be handled.
 3) On Git pane - click "+" sign next to file to stage it
 4) Enter a message and press Ctrl+Enter to commit (local) - now local branch is ahead of remote branch (use Git Push to update remote branch)
+5) One more try - not sure why my credentials aren't working
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
