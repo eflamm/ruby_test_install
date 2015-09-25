@@ -4,6 +4,12 @@ This is a test project which is part of the Johns Hopkins Ruby course on Courser
 Actually, this project was created by rails new test_install - so all the files (except for Git files) were created
 by rails server.
 
+Testing GIT credentials in Visual Studio Code
+1) Edit a file (this one)
+2) Save it. Then Git icon lights up to show that saved changes need to be handled.
+3) On Git pane - click "+" sign next to file to stage it
+4) Enter a message and press Ctrl+Enter to commit (local)
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
